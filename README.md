@@ -11,7 +11,7 @@ Database Integration with MongoDB using Mongoose.
 Middleware to protect routes & secure sessions.
 Responsive UI using EJS & Bootstrap.
 
-Tech Stack
+Tech Stack:-
 Backend: Node.js, Express.js.
 Frontend: EJS, Bootstrap.
 Database: MongoDB (Mongoose ODM).
